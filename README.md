@@ -5,8 +5,7 @@ An **AI-powered stock market analysis dashboard** built with **Streamlit**, desi
 ---
 
 ## 🚀 Live Demo
-👉 Add your deployed Streamlit app link here  
-Example: `https://your-stocktrend-ai.streamlit.app`
+👉 https://stocktrend-ai-upggtdluhby33de2fizecj.streamlit.app/
 
 ---
 
