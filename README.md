@@ -194,3 +194,11 @@ stocktrend-ai/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+
+👨‍💻 Developer
+
+Shivang Tiwari
+
+🎓 B.Tech Computer Science Engineering
+🏫 Bennett University
+💻 Full Stack Web Development & AI Enthusiast
